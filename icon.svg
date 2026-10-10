@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0ff9d"/><stop offset="1" stop-color="#8bc83a"/></linearGradient>
+    <linearGradient id="ball" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#cde0e6"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="#07131f"/>
+  <rect x="28" y="28" width="456" height="456" rx="94" fill="url(#bg)"/>
+  <circle cx="256" cy="238" r="137" fill="#102e30" opacity=".12"/>
+  <path d="M111 170h290v177H111z" fill="none" stroke="#173329" stroke-width="13" stroke-linejoin="round" opacity=".75"/>
+  <path d="M171 170v177m170-177v177M111 258h290" fill="none" stroke="#173329" stroke-width="8" opacity=".42"/>
+  <circle cx="256" cy="250" r="91" fill="url(#ball)" stroke="#142b35" stroke-width="10"/>
+  <path d="m256 205 36 26-14 42h-44l-14-42z" fill="#102536"/>
+  <path d="m256 205-5-32m41 58 34-6m-48 48 13 34m-57-34-28 25m0-67-31-16" fill="none" stroke="#102536" stroke-width="11" stroke-linecap="round"/>
+  <path d="M163 390h186" stroke="#173329" stroke-width="15" stroke-linecap="round" opacity=".65"/>
+  <text x="256" y="438" font-family="Arial,sans-serif" font-size="36" font-weight="900" text-anchor="middle" fill="#173329">MINI CUP</text>
+</svg>
